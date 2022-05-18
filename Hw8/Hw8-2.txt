@@ -1,0 +1,8 @@
+Q1.
+colorPrimaryDark
+
+Q2.
+Design Support Library
+
+Q3.
+Any color shade labeled 500

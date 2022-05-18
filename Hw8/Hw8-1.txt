@@ -1,0 +1,8 @@
+Q1.
+NinePatchDrawable
+
+Q2.
+StateListDrawable
+
+Q3.
+Theme.AppCompat.Light.DarkActionBar
